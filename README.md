@@ -159,5 +159,8 @@ androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 ```
 
 ## VIII. Reference
+[MMA DATASET](https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression)
+[MobileNetV2](https://arxiv.org/abs/1801.04381)
+[JavaCamera](https://docs.nvidia.com/gameworks/content/technologies/mobile/opencv_tutorial_camera_preview.htm)https://docs.nvidia.com/gameworks/content/technologies/mobile/opencv_tutorial_camera_preview.htm)
 
-https://github.com/pramod722445/ImagePro2
+
