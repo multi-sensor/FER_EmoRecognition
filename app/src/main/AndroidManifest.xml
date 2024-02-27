@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.imagepro">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front.autofocus"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ImagePro">
+        <!-- 다른 액티비티들에 대해서는 android:exported 설정이 필요에 따라 달라질 수 있습니다. -->
+        <activity android:name=".AngryActivity"></activity>
+        <activity android:name=".FearActivity"></activity>
+        <activity android:name=".HappyActivity"></activity>
+        <activity android:name=".SadActivity"></activity>
+        <activity android:name=".SurpriseActivity"></activity>
+        <activity android:name=".MainActivity"
+            android:exported="true"> <!-- 런처 액티비티로, 다른 앱에서 이 액티비티를 시작할 수 있으므로 exported를 true로 설정 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

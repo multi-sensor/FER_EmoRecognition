@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"> <!-- 직사각형 모양 정의 -->
+    <solid android:color="#CCCCCC"/> <!-- 배경색을 회색으로 설정 -->
+    <corners android:radius="20dp"/> <!-- 모서리 둥글기 설정 -->
+</shape>
