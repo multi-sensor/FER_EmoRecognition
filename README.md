@@ -121,9 +121,8 @@ Use git clone or directly download. Then you can get a below model hierarchy.
 
 사용자는 실시간으로 스트리밍되는 자신의 얼굴을 보며, 앱이 분석한 감정 상태(예: 놀람, 슬픔, 행복 등)를 확인할 수 있다. 각 감정 상태는 버튼으로 표시되며, 사용자가 이를 클릭하면 해당 감정에 대한 피드백을 받을 수 있다. 전체적인 프로세스는 사용자의 상호작용을 바탕으로 감정 인식의 정확도를 향상시키는 데 목적이 있다. 피드백 메세지를 통해 특정 임계값 이하이면 감정에 대한 개념 피드백을 제공하고, 임계값 이상이면 응원해주는 말로 격려 피드백을 제공한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9dfb57e0-8f31-4688-8fc4-a51072d3335b/0f89fafe-757c-4201-ad96-c096cf0a9023/Untitled.png)
+<img width="878" alt="image" src="https://github.com/multi-sensor/FER_EmoRecognition/assets/54527982/86df6bc5-17f5-4532-a20d-3263252e16bc">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9dfb57e0-8f31-4688-8fc4-a51072d3335b/5ad68f86-d22e-41c5-8e40-49238cd26fa3/Untitled.png)
 
 > 시연 영상
 > 
