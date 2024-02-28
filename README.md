@@ -151,9 +151,11 @@ Use git clone or directly download. Then you can get a below model hierarchy.
 
 <img width="878" alt="image" src="https://github.com/multi-sensor/FER_EmoRecognition/assets/54527982/86df6bc5-17f5-4532-a20d-3263252e16bc">
 
+</br></br>
 
-> 시연 영상 </br>
-> 
+> 시연 영상
+
+</br>
 
 https://github.com/multi-sensor/FER_EmoRecognition/assets/54527982/6f774294-534b-42df-b21f-566d3b4e60e1
 
@@ -189,6 +191,6 @@ androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 ## VIII. Reference
 [MMA DATASET](https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression) </br>
 [MobileNetV2](https://arxiv.org/abs/1801.04381)</br>
-[JavaCamera](https://docs.nvidia.com/gameworks/content/technologies/mobile/opencv_tutorial_camera_preview.htm)https://docs.nvidia.com/gameworks/content/technologies/mobile/opencv_tutorial_camera_preview.htm)</br>
+[JavaCamera](https://docs.nvidia.com/gameworks/content/technologies/mobile/opencv_tutorial_camera_preview.htm)</br>
 
 
