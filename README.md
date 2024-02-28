@@ -86,10 +86,9 @@ Android 애플리케이션 내의 **`Emodion Recognition`** 클래스는 TensorF
 
 </br>
 
-### Ensemble Model
+### MobileNet V2
 
-- F1 Score: 0.7510
-- Accuracy: 0.7531
+→ OnDevice 구현 목적이기 때문에 경량화된 모델 사용한다.
 
 </br></br></br>
 
